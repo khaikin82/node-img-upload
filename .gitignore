@@ -31,3 +31,6 @@ Thumbs.db
 dist/
 build/
 coverage/
+
+config/service_account.json
+config/service_account.json
